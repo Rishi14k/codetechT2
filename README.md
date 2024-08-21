@@ -11,7 +11,10 @@
 
 This project finding the recipe by using search functionality with help of -**API**<br>
 
-**Objective of the Recipe Finder Application:** <br>
+
+## Objective of the Recipe Finder Application: <br>
+
+
 The objective of the Recipe Finder application is to provide users with an easy and efficient way to discover and explore a variety of recipes based on their search preferences. <br>
 By leveraging the Edamam Recipe API, the application fetches and displays detailed recipe information, including images, ingredients, and calorie content.<br>
 The aim is to offer a user-friendly and visually appealing platform where users can quickly find inspiration for their meals, access cooking instructions, <br>
